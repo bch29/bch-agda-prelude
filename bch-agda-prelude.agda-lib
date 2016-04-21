@@ -1,0 +1,3 @@
+name: bch-agda-prelude
+depend: standard-library
+include: .
